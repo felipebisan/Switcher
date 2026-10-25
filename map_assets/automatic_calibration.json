@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "atlas_size": [
+    2494,
+    3156
+  ],
+  "points": [
+    [
+      -1513.162109375,
+      496.46734619140625,
+      1094.7298843640772,
+      1471.6963788682324
+    ],
+    [
+      -3254.05029296875,
+      508.341552734375,
+      805.2477832415581,
+      1469.7599422516666
+    ],
+    [
+      -2115.773681640625,
+      -9490.529296875,
+      993.7032676053035,
+      3130.7334332045343
+    ]
+  ],
+  "source": "Scenic Navigator nav_logic.js world calibration + routing.js labToMapPixel + local vector-atlas registration",
+  "calibration_revision": 2
+}

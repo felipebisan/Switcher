@@ -1,0 +1,16 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Ambiente e arquivos de compilação
+.venv/
+.build-venv/
+build/
+dist/
+
+# Configurações e dados pessoais
+config*.json
+map_config*.json
+map_calibration.json
+friends.json
+diagnostics/
